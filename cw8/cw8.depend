@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1712220327 source:c:\users\saquib\documents\cse255\cw8\main.cpp
+	<iostream>
+	"stacktype.h"
+	"stacktype.cpp"
+
+1712219815 c:\users\saquib\documents\cse255\cw8\stacktype.h
+
+1712219731 c:\users\saquib\documents\cse255\cw8\stacktype.cpp
+	"StackType.h"
+

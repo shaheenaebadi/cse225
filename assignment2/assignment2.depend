@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1712089550 source:c:\users\saquib\documents\cse255\assignment2\main.cpp
+	<iostream>
+	"linkedList.h"
+
+1712089566 c:\users\saquib\documents\cse255\assignment2\linkedlist.h
+	<iostream>
+
