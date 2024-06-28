@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1716406028 source:c:\users\user\desktop\cse225\hw5lab\main.cpp
+	"binarysearchtree.h"
+	"binarysearchtree.cpp"
+	<iostream>
+
+1716405953 c:\users\user\desktop\cse225\hw5lab\binarysearchtree.h
+	"quetype.h"
+
+1716405874 c:\users\user\desktop\cse225\hw5lab\quetype.h
+
+1716405917 c:\users\user\desktop\cse225\hw5lab\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1716405894 c:\users\user\desktop\cse225\hw5lab\quetype.cpp
+	"quetype.h"
+	<iostream>
+
